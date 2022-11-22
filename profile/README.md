@@ -1,4 +1,4 @@
-## Hi there 👋 This is the CDM SMI
+## Hi there 👋  This is the CDM SMITH's offical Github Page.
 
 <!--
 
