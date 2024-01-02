@@ -1,4 +1,4 @@
-## Hi there 👋  This is the CDM SMITH's official Github Page.
+## Hi there 👋  This is the CDM SMITH's official Github Page!.
 
 ![CDMSmith_75thAnniversary_Logo_3Color](https://github.com/cdmsmithinc/.github-private/assets/118752523/ffce17be-1011-46c3-bc18-7fb9431bbb69)
 
