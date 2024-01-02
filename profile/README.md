@@ -1,6 +1,6 @@
 ## Hi there 👋  This is the CDM SMITH's official Github Page.
 
-![CDMSmith_75thAnniversary_Logo_3Color](https://user-images.githubusercontent.com/109520524/203243715-fa8d3886-ae43-4cb6-84ef-cb46dd53331e.jpg)
+![CDMSmith_75thAnniversary_Logo_3Color](https://github.com/cdmsmithinc/.github-private/assets/118752523/ffce17be-1011-46c3-bc18-7fb9431bbb69)
 
 
 <!--
